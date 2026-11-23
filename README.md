@@ -1,220 +1,380 @@
-<div align="center" id="gear-fifth">
+<a id="top"></a>
 
-<!-- ═══════════════════════════════════════════════════════════════════ -->
-<!-- ☀️ HERO SECTION & SYSTEM INITIALIZATION                           -->
-<!-- ═══════════════════════════════════════════════════════════════════ -->
+<!-- ═══════════════════════════════════════════════════════════════════════════ -->
+<!-- 00 // LUXURY WAVE HERO & DYNAMIC IDENTITY                                  -->
+<!-- ═══════════════════════════════════════════════════════════════════════════ -->
 
-# ☀️ GEAR-FIFTH // SMIT MANDALIYA
-### `System.initialize("Smit")` • Senior Full-Stack Software Crafter
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:090D16,42:1E1B4B,78:78350F,100:F59E0B&height=235&section=header&text=SMIT%20MANDALIYA&fontSize=56&fontColor=F8FAFC&fontAlignY=38&desc=GEAR-FIFTH%20%E2%97%86%20SENIOR%20FULL-STACK%20%26%20SYSTEMS%20ARCHITECT&descSize=16&descAlignY=60&descColor=FDE68A&animation=fadeIn" />
+  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,45:312E81,80:B45309,100:F59E0B&height=235&section=header&text=SMIT%20MANDALIYA&fontSize=56&fontColor=FFFFFF&fontAlignY=38&desc=GEAR-FIFTH%20%E2%97%86%20SENIOR%20FULL-STACK%20%26%20SYSTEMS%20ARCHITECT&descSize=16&descAlignY=60&descColor=FEF3C7&animation=fadeIn" />
+  <img alt="Smit Mandaliya — Gear-Fifth Senior Full-Stack & Systems Architect" src="https://capsule-render.vercel.app/api?type=waving&color=0:090D16,42:1E1B4B,78:78350F,100:F59E0B&height=235&section=header&text=SMIT%20MANDALIYA&fontSize=56&fontColor=F8FAFC&fontAlignY=38&desc=GEAR-FIFTH%20%E2%97%86%20SENIOR%20FULL-STACK%20%26%20SYSTEMS%20ARCHITECT&descSize=16&descAlignY=60&descColor=FDE68A&animation=fadeIn" width="100%" />
+</picture>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=3000&pause=1000&color=FBBF24&center=true&vcenter=true&width=720&height=36&lines=Architecting+Fault-Tolerant+Distributed+Systems+%E2%9A%A1;Crafting+High-Velocity+Full-Stack+Experiences+%E2%9C%A6;Zero-Downtime+Cloud+Platforms+%26+API+Meshes+%E2%97%88;Gear+5th+Awakened+%E2%80%94+Drums+of+Liberation+Active+%F0%9F%A5%81" />
+  <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=3000&pause=1000&color=B45309&center=true&vcenter=true&width=720&height=36&lines=Architecting+Fault-Tolerant+Distributed+Systems+%E2%9A%A1;Crafting+High-Velocity+Full-Stack+Experiences+%E2%9C%A6;Zero-Downtime+Cloud+Platforms+%26+API+Meshes+%E2%97%88;Gear+5th+Awakened+%E2%80%94+Drums+of+Liberation+Active+%F0%9F%A5%81" />
+  <img alt="Dynamic Engineering Headline" src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=3000&pause=1000&color=FBBF24&center=true&vcenter=true&width=720&height=36&lines=Architecting+Fault-Tolerant+Distributed+Systems+%E2%9A%A1;Crafting+High-Velocity+Full-Stack+Experiences+%E2%9C%A6;Zero-Downtime+Cloud+Platforms+%26+API+Meshes+%E2%97%88;Gear+5th+Awakened+%E2%80%94+Drums+of+Liberation+Active+%F0%9F%A5%81" />
+</picture>
 
 <br />
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=F39C12&center=true&vcenter=true&width=500&lines=Senior+Full-Stack+Software+Engineer;Joy+Boy+of+Software+Architecture;Turning+Coffee+%2B+Logic+Into+Code;Awakened+%26+Ready+To+Deploy;Drums+of+Liberation+Echoing...)](https://git.io/typing-svg)
-
-<br />
-
+<!-- Primary Action Strip -->
 <p align="center">
   <a href="https://github.com/gear-fifth">
-    <img src="https://img.shields.io/badge/Status-Awakened%20%28Gear%205%29-F39C12?style=for-the-badge&logo=lightning&logoColor=white" alt="Status: Awakened" />
+    <img src="https://img.shields.io/badge/GitHub-@gear--fifth-0F172A?style=for-the-badge&logo=github&logoColor=F8FAFC&labelColor=1E293B" alt="GitHub" />
   </a>
-  <a href="https://github.com/gear-fifth">
-    <img src="https://img.shields.io/badge/Class-Systems%20Crafter-8B5CF6?style=for-the-badge&logo=codefactor&logoColor=white" alt="Class: Systems Crafter" />
-  </a>
-  <a href="https://github.com/gear-fifth">
-    <img src="https://img.shields.io/badge/Bounty-฿%203,000,000,000-E63946?style=for-the-badge" alt="Bounty: 3B Clean Commits" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/gear-fifth">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Profile" />
-  </a>
+  &nbsp;
   <a href="https://linkedin.com/in/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyByb2xlPSJpbWciIHZpZXdCb3g9IjAgMCAyNCAyNCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48cGF0aCBmaWxsPSJ3aGl0ZSIgZD0iTTIwLjQ0NyAyMC40NTJoLTMuNTU0di01LjU2OWMwLTEuMzI4LS4wMjctMy4wMzctMS44NTItMy4wMzctMS44NTMgMC0yLjEzNiAxLjQ0NS0yLjEzNiAyLjkzOXY1LjY2N0g5LjM1MVY5aDMuNDE0djEuNTYxaC4wNDZjLjQ3Ny0uOSAxLjYzNy0xLjg1IDMuMzctMS44NSAzLjYwMSAwIDQuMjY3IDIuMzcgNC4yNjcgNS40NTV2Ni4yODZ6TTUuMzM3IDcuNDMzYy0xLjE0NCAwLTIuMDYzLS45MjYtMi4wNjMtMi4wNjUgMC0xLjEzOC45Mi0yLjA2MyAyLjA2My0yLjA2MyAxLjE0IDAgMi4wNjQuOTI1IDIuMDY0IDIuMDYzIDAgMS4xMzktLjkyNSAyLjA2NS0yLjA2NCAyLjA2NXptMS43ODIgMTMuMDE5SDMuNTU1VjloMy41NjR2MTEuNDUyek0yMi4yMjUgMEgxLjc3MUMuNzkyIDAgMCAuNzc0IDAgMS43Mjl2MjAuNTQyQzAgMjMuMjI3Ljc5MiAyNCAxLjc3MSAyNGgyMC40NTFDMjMuMiAyNCAyNCAyMy4yMjcgMjQgMjIuMjcxVjEuNzI5QzI0IC43NzQgMjMuMiAwIDIyLjIyMiAwaC4wMDN6Ii8+PC9zdmc+" alt="LinkedIn Profile" />
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-1E1B4B?style=for-the-badge&logo=linkedin&logoColor=A78BFA&labelColor=0F172A" alt="LinkedIn" />
   </a>
+  &nbsp;
   <a href="mailto:smit.mandaliya@cardinalgroup.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Smit" />
+    <img src="https://img.shields.io/badge/Email-Let's%20Build-D97706?style=for-the-badge&logo=gmail&logoColor=FFFFFF&labelColor=0F172A" alt="Email Smit" />
   </a>
-  <a href="https://komarev.com/ghpvc/?username=gear-fifth&label=Liberation%20Views&color=f39c12&style=for-the-badge">
-    <img src="https://komarev.com/ghpvc/?username=gear-fifth&label=Liberation%20Views&color=f39c12&style=for-the-badge" alt="Profile Views" />
+  &nbsp;
+  <a href="https://github.com/gear-fifth">
+    <img src="https://komarev.com/ghpvc/?username=gear-fifth&label=VIEWS&color=7C3AED&style=for-the-badge" alt="Profile Views" />
   </a>
 </p>
 
----
+<!-- Status Pills -->
+<p align="center">
+  <img src="https://img.shields.io/badge/STATUS-AWAKENED%20%C2%B7%20GEAR%205TH-F59E0B?style=flat-square&labelColor=090D16" alt="Status: Awakened Gear 5th" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/ROLE-SYSTEMS%20CRAFTER-8B5CF6?style=flat-square&labelColor=090D16" alt="Role: Systems Crafter" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/BOUNTY-%E0%B8%BF%203%2C000%2C000%2C000-F43F5E?style=flat-square&labelColor=090D16" alt="Bounty: 3B Clean Commits" />
+</p>
 
-*“Peak performance, total flexibility, and unlimited creativity.”*  
-— **The Warrior of Liberation Philosophy**
+<br />
 
----
+> ### *“Peak performance, total flexibility, and unlimited creativity.”*
+> <sub>— **The Warrior of Liberation Philosophy** · Engineering without artificial ceilings</sub>
 
 </div>
 
 <br />
 
-## ⚡ System Diagnostics & Manifest
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:090D16,25:F59E0B,50:A78BFA,75:38BDF8,100:090D16&height=3" width="100%" alt="divider" />
 
-```ini
-; ═════════════════════════════════════════════════════════════════
-; ☀️ SYSTEM SPECIFICATION // SUN GOD NIKA PROTOCOL (GEAR 5TH)
-; ═════════════════════════════════════════════════════════════════
-[WARRIOR]      = Smit Mandaliya
-[ALIAS]        = gear-fifth
-[CLASS]        = Full-Stack Engineer // Systems Crafter
-[DEVIL FRUIT]  = Hito Hito no Mi, Model: Nika (Gear 5th)
-[STATUS]       = Awakened // Ready for High-Throughput Production
-[PASSIVE]      = Drums of Liberation (Boosts speed, creativity & resilience)
-[BOUNTY]       = ฿ 3,000,000,000 Clean Commits
+<br />
+
+<!-- ═══════════════════════════════════════════════════════════════════════════ -->
+<!-- 01 // EXECUTIVE DOSSIER & RUNTIME IDENTITY                                 -->
+<!-- ═══════════════════════════════════════════════════════════════════════════ -->
+
+<h2 align="center"><code>01</code> &nbsp;✦&nbsp; ARCHITECTURAL PROFILE &amp; RUNTIME</h2>
+
+<table>
+  <tr>
+    <td width="52%" valign="top">
+      <br />
+      <p>
+        I craft <strong>bulletproof distributed backends</strong>, high-throughput API meshes, and <strong>razor-sharp web interfaces</strong>. Every line of code is built to feel effortless to users and resilient under real-world production load.
+      </p>
+      <br />
+      <p><strong>✦ Core Engineering Pillars</strong></p>
+      <ul>
+        <li><strong>Resilience by Design</strong> — Idempotent APIs, fault isolation &amp; zero-downtime rollouts.</li>
+        <li><strong>Mechanical Sympathy</strong> — Lean schemas, sub-millisecond caching &amp; tuned queries.</li>
+        <li><strong>Design-System Craft</strong> — Accessible, fluid UIs powered by strict TypeScript.</li>
+        <li><strong>Cloud-Native Velocity</strong> — Automated CI/CD, container parity &amp; live observability.</li>
+      </ul>
+      <br />
+      <p>
+        <sub>🤝 <em>Open to collaborating on ambitious open-source tools, microservice platforms, developer infrastructure, and high-growth startup architectures.</em></sub>
+      </p>
+    </td>
+    <td width="48%" valign="top">
+
+```ts
+// gear-fifth.config.ts // Sun God Nika Protocol
+
+export const architect = {
+  name:       "Smit Mandaliya",
+  alias:      "@gear-fifth",
+  role:       "Senior Full-Stack & Systems Architect",
+  status:     "AWAKENED // Gear 5th",
+  devilFruit: "Hito Hito no Mi, Model: Nika",
+  passive:    "Drums of Liberation",
+  bounty:     "฿ 3,000,000,000 Clean Commits",
+
+  focus: [
+    "High-Concurrency Distributed Systems",
+    "Event-Driven & Microservice Architecture",
+    "Cloud-Native Observability & DevOps",
+    "Precision Frontend Design Systems",
+  ],
+} as const;
+```
+
+  </td>
+  </tr>
+</table>
+
+<br />
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:090D16,25:F59E0B,50:A78BFA,75:38BDF8,100:090D16&height=3" width="100%" alt="divider" />
+
+<br />
+
+<!-- ═══════════════════════════════════════════════════════════════════════════ -->
+<!-- 02 // SYSTEM ARCHITECTURE BLUEPRINT & TECH DECK                            -->
+<!-- ═══════════════════════════════════════════════════════════════════════════ -->
+
+<h2 align="center"><code>02</code> &nbsp;◈&nbsp; SYSTEM ARCHITECTURE &amp; TECH DECK</h2>
+
+<p align="center">
+  <sub><em>End-to-end production topology — from sub-100ms edge experiences to distributed state and automated cloud delivery.</em></sub>
+</p>
+
+```mermaid
+flowchart LR
+    EDGE["⚡ 01 · INTERFACE & EDGE<br/>────────────────────<br/>TypeScript · React · Next.js<br/>Vue.js · Tailwind CSS · HTML5"]
+    CORE["◈ 02 · COMPUTE & API MESH<br/>────────────────────<br/>Node.js · Go · Python<br/>FastAPI · Express · GraphQL · REST"]
+    DATA["✦ 03 · DATA & PERSISTENCE<br/>────────────────────<br/>PostgreSQL · Redis · MongoDB<br/>MySQL · Prisma ORM"]
+    INFRA["☁️ 04 · CLOUD & DELIVERY PLANE<br/>────────────────────<br/>Docker · Kubernetes · AWS<br/>GitHub Actions · Linux · Git"]
+
+    EDGE ==>|"HTTPS · SSR"| CORE
+    CORE ==>|"ACID · Sub-ms Cache"| DATA
+    INFRA -.->|"Zero-Downtime CI/CD"| EDGE
+    INFRA -.->|"Orchestration & Mesh"| CORE
+    INFRA -.->|"Backups & Observability"| DATA
+
+    style EDGE fill:#0F172A,stroke:#F59E0B,stroke-width:2px,color:#F8FAFC
+    style CORE fill:#0F172A,stroke:#A78BFA,stroke-width:2px,color:#F8FAFC
+    style DATA fill:#0F172A,stroke:#34D399,stroke-width:2px,color:#F8FAFC
+    style INFRA fill:#0F172A,stroke:#38BDF8,stroke-width:2px,color:#F8FAFC
 ```
 
 <br />
 
-| Directive | Strategic Focus & Protocol |
-| :--- | :--- |
-| 🎯 **Primary Focus** | Building ultra-scalable, bulletproof web applications, distributed backends, and elegant user interfaces. |
-| 🚀 **Combat Mode** | **Gear 5 Awakened** — Rapid prototyping, zero-limitation architecture, and resilient engineering. |
-| 📖 **Currently Leveling Up** | High-performance distributed systems, cloud-native observability, and event-driven architectures. |
-| 🤝 **Open Collaboration** | High-impact open-source initiatives, microservice platforms, developer tooling, and innovative startup ideas. |
-
-<br />
-
----
-
-## 🛠️ Combat Gear & Tech Stack
-
-<div align="center">
-
-### 🌐 Frontend & User Interface
-*Crafting responsive, high-performance interfaces with modern developer ergonomics.*
-
 <p align="center">
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
-  <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D" alt="Vue.js" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css&logoColor=white" alt="CSS3" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=ts,js,react,nextjs,vue,tailwind,nodejs,go,py,fastapi,express,graphql&perline=12&theme=dark" />
+    <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=ts,js,react,nextjs,vue,tailwind,nodejs,go,py,fastapi,express,graphql&perline=12&theme=light" />
+    <img alt="Frontend & Backend Stack" src="https://skillicons.dev/icons?i=ts,js,react,nextjs,vue,tailwind,nodejs,go,py,fastapi,express,graphql&perline=12&theme=dark" />
+  </picture>
+  <br />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=postgres,redis,mongodb,mysql,prisma,docker,kubernetes,aws,githubactions,linux,git,postman&perline=12&theme=dark" />
+    <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=postgres,redis,mongodb,mysql,prisma,docker,kubernetes,aws,githubactions,linux,git,postman&perline=12&theme=light" />
+    <img alt="Data, Cloud & DevOps Stack" src="https://skillicons.dev/icons?i=postgres,redis,mongodb,mysql,prisma,docker,kubernetes,aws,githubactions,linux,git,postman&perline=12&theme=dark" />
+  </picture>
 </p>
 
 <br />
 
-### ⚙️ Backend, APIs & Core
-*Architecting high-concurrency microservices, resilient APIs, and fault-tolerant distributed engines.*
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" />
-  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Go" />
-  <img src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white" alt="GraphQL" />
-  <img src="https://img.shields.io/badge/REST_API-005571?style=for-the-badge&logo=openapi-initiative&logoColor=white" alt="REST API" />
-</p>
+<!-- 4-Column Architectural Bento Matrix -->
+<table width="100%">
+  <tr>
+    <td width="25%" valign="top" align="center">
+      <br />
+      <strong>⚡ INTERFACE</strong>
+      <br />
+      <sub><code>EDGE &amp; UI</code></sub>
+      <br /><br />
+      <sub>
+        TypeScript · JavaScript<br />
+        React · Next.js · Vue.js<br />
+        Tailwind · HTML5 · CSS3
+      </sub>
+      <br /><br />
+      <sub><em>Sub-100ms interactions &amp; modular design systems</em></sub>
+      <br /><br />
+    </td>
+    <td width="25%" valign="top" align="center">
+      <br />
+      <strong>◈ COMPUTE</strong>
+      <br />
+      <sub><code>APIs &amp; CORE</code></sub>
+      <br /><br />
+      <sub>
+        Node.js · Go · Python<br />
+        FastAPI · Express.js<br />
+        GraphQL · REST APIs
+      </sub>
+      <br /><br />
+      <sub><em>High-concurrency services &amp; event pipelines</em></sub>
+      <br /><br />
+    </td>
+    <td width="25%" valign="top" align="center">
+      <br />
+      <strong>✦ PERSISTENCE</strong>
+      <br />
+      <sub><code>DATA &amp; CACHE</code></sub>
+      <br /><br />
+      <sub>
+        PostgreSQL · MySQL<br />
+        MongoDB · Redis<br />
+        Prisma ORM
+      </sub>
+      <br /><br />
+      <sub><em>ACID integrity &amp; in-memory acceleration</em></sub>
+      <br /><br />
+    </td>
+    <td width="25%" valign="top" align="center">
+      <br />
+      <strong>☁️ DELIVERY</strong>
+      <br />
+      <sub><code>CLOUD &amp; DEVOPS</code></sub>
+      <br /><br />
+      <sub>
+        Docker · Kubernetes<br />
+        AWS · GitHub Actions<br />
+        Linux · Git · Postman
+      </sub>
+      <br /><br />
+      <sub><em>Zero-downtime CI/CD &amp; cloud observability</em></sub>
+      <br /><br />
+    </td>
+  </tr>
+</table>
 
 <br />
 
-### 🗄️ Databases & Storage
-*Designing robust relational schemas, document stores, and in-memory caches.*
-
-<p align="center">
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
-  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" alt="Redis" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
-  <img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white" alt="Prisma" />
-</p>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:090D16,25:F59E0B,50:A78BFA,75:38BDF8,100:090D16&height=3" width="100%" alt="divider" />
 
 <br />
 
-### ☁️ Cloud, DevOps & Tooling
-*Automating zero-downtime deployment pipelines, container orchestration, and developer workflows.*
+<!-- ═══════════════════════════════════════════════════════════════════════════ -->
+<!-- 03 // ACTIVE MISSIONS & BENTO ROADMAP                                      -->
+<!-- ═══════════════════════════════════════════════════════════════════════════ -->
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
-  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes" />
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyByb2xlPSJpbWciIHZpZXdCb3g9IjAgMCAyNCAyNCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48cGF0aCBmaWxsPSIlMjNGRjk5MDAiIGQ9Ik0xOC43IDE0LjRjLTIuMyAxLjctNS42IDIuNi04LjUgMi42LTQgMC03LjYtMS41LTEwLjMtNC0uMi0uMiAwLS41LjItLjMgMi45IDEuNyA2LjYgMi44IDEwLjMgMi44IDIuNiAwIDUuNC0uNSA3LjktMS42LjQtLjIuNy4yLjQuNXptMS0xLjFjLS4zLS40LTEuOS0uMi0yLjctLjEtLjIgMC0uMy0uMi0uMS0uMyAxLjMtLjkgMy41LS42IDMuNy0uMy4zLjMtLjEgMi41LTEuMyAzLjUtLjIuMi0uNC4xLS4zLS4xLjMtLjcuOS0yLjMuNy0yLjd6Ii8+PC9zdmc+" alt="AWS" />
-  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" alt="GitHub Actions" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyByb2xlPSJpbWciIHZpZXdCb3g9IjAgMCAyNCAyNCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48cGF0aCBmaWxsPSJ3aGl0ZSIgZD0iTTIzLjE1IDIuNTg3TDE4LjIxLjIxYTEuNDk0IDEuNDk0IDAgMCAwLTEuNzA1LjI5bC05LjQ2IDguNjMtNC4xMi0zLjEyOGEuOTk5Ljk5OSAwIDAgMC0xLjI3Ni4wNTdMLjMyNyA3LjI2MUExIDEgMCAwIDAgLjMyNiA4Ljc0TDMuODk5IDEyIC4zMjYgMTUuMjZhMSAxIDAgMCAwIC4wMDEgMS40NzlMMS42NSAxNy45NGEuOTk5Ljk5OSAwIDAgMCAxLjI3Ni4wNTdsNC4xMi0zLjEyOCA5LjQ2IDguNjNhMS40OTIgMS40OTIgMCAwIDAgMS43MDQuMjlsNC45NDItMi4zNzdBMS41IDEuNSAwIDAgMCAyNCAyMC4wNlYzLjkzOWExLjUgMS41IDAgMCAwLS44NS0xLjM1MnptLTUuMTQ2IDE0Ljg2MUwxMC44MjYgMTJsNy4xNzgtNS40NDh2MTAuODk2eiIvPjwvc3ZnPg==" alt="VS Code" />
-</p>
+<h2 align="center"><code>03</code> &nbsp;⟡&nbsp; ACTIVE DIRECTIVES &amp; QUEST BOARD</h2>
 
-</div>
+<table width="100%">
+  <tr>
+    <td width="50%" valign="top">
+      <p><strong>🚢 <code>RFC-01</code> · Resilient Full-Stack Systems</strong> &nbsp; <code>ACTIVE</code></p>
+      <p><sub>Designing fault-tolerant, multi-tier production applications engineered for scale, clean domain boundaries, and crisp developer ergonomics.</sub></p>
+    </td>
+    <td width="50%" valign="top">
+      <p><strong>⚡ <code>RFC-02</code> · Open-Source Dev Tools &amp; CLIs</strong> &nbsp; <code>SHIPPING</code></p>
+      <p><sub>Building fast, focused open-source utilities and terminal workflows that eliminate engineering friction for modern teams.</sub></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <p><strong>⚔️ <code>RFC-03</code> · Zero-Downtime Cloud Pipelines</strong> &nbsp; <code>SCALING</code></p>
+      <p><sub>Refining containerized CI/CD delivery, Kubernetes orchestration, and cloud-native observability across distributed environments.</sub></p>
+    </td>
+    <td width="50%" valign="top">
+      <p><strong>🥁 <code>RFC-04</code> · Drums of Liberation Discipline</strong> &nbsp; <code>CONTINUOUS</code></p>
+      <p><sub>Maintaining relentless commit quality, architectural curiosity, and joyful craftsmanship on every single release.</sub></p>
+    </td>
+  </tr>
+</table>
 
-<br />
+<details>
+<summary><sub><code>gear-fifth@sun-god-nika:~$ cat active_quests.json</code> &nbsp;— inspect live terminal manifest</sub></summary>
 
----
-
-## 📊 Battle Analytics & Radar
-
-<div align="center">
-
-<p align="center">
-  <a href="https://github.com/gear-fifth">
-    <img src="https://github-stats-extended.vercel.app/api?username=gear-fifth&show_icons=true&border_color=f39c12&border_radius=8&bg_color=0d1117&title_color=f39c12&icon_color=a855f7&text_color=c9d1d9&card_width=420" alt="Smit's GitHub Stats" />
-  </a>
-  <a href="https://github.com/gear-fifth">
-    <img src="https://streak-stats.demolab.com/?user=gear-fifth&theme=tokyonight&border=f39c12&border_radius=8&background=0d1117&ring=f39c12&fire=f39c12&currStreakLabel=f39c12&sideNums=c9d1d9&sideLabels=f39c12&dates=8b949e&card_width=420" alt="Streak Stats" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/gear-fifth">
-    <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=gear-fifth&layout=compact&border_color=f39c12&border_radius=8&bg_color=0d1117&title_color=f39c12&text_color=c9d1d9&card_width=420" alt="Top Languages" />
-  </a>
-</p>
-
-<br />
-
----
-
-## 🎮 Interactive Mini-Games // Jolly Roger Arcade
-
-<div align="center">
-
-> *"Even in battle, the Joy Boy plays."* — Drums of Liberation
-
-<!-- Auto-animated Snake Contribution SVG below the Mario feature -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/gear-fifth/gear-fifth/output/snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/gear-fifth/gear-fifth/output/snake-light.svg">
-  <img alt="🐍 Nika Snake — Live contribution grid animation" src="https://raw.githubusercontent.com/gear-fifth/gear-fifth/output/snake-dark.svg" width="100%" />
-</picture>
-
----
-
-## 📜 Quest Terminal & Bounty Board
-
-```bash
-gear-fifth@sun-god-nika:~$ cat active_quests.json
+```json
 {
-  "quest_01": "🚢 Architect high-resilience full-stack solutions",
-  "quest_02": "⚡ Ship open-source developer utilities & CLI tools",
-  "quest_03": "⚔️ Optimize zero-downtime CI/CD deployment pipelines",
-  "quest_04": "🥁 Keep the Drums of Liberation beating with 100% commit discipline"
+  "protocol": "sun-god-nika.v5",
+  "status": "AWAKENED",
+  "quests": {
+    "quest_01": "🚢 Architect high-resilience full-stack solutions",
+    "quest_02": "⚡ Ship open-source developer utilities & CLI tools",
+    "quest_03": "⚔️ Optimize zero-downtime CI/CD deployment pipelines",
+    "quest_04": "🥁 Keep the Drums of Liberation beating with 100% commit discipline"
+  }
 }
 ```
 
+</details>
+
 <br />
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:090D16,25:F59E0B,50:A78BFA,75:38BDF8,100:090D16&height=3" width="100%" alt="divider" />
+
+<br />
+
+<!-- ═══════════════════════════════════════════════════════════════════════════ -->
+<!-- 04 // ENGINEERING TELEMETRY & LIVE VELOCITY                                -->
+<!-- ═══════════════════════════════════════════════════════════════════════════ -->
+
+<h2 align="center"><code>04</code> &nbsp;✦&nbsp; ENGINEERING TELEMETRY &amp; VELOCITY</h2>
+
+<p align="center">
+  <a href="https://github.com/gear-fifth">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-stats-extended.vercel.app/api?username=gear-fifth&show_icons=true&bg_color=090d16&border_color=1e293b&border_radius=12&title_color=f59e0b&icon_color=a78bfa&text_color=e2e8f0&card_width=430" />
+      <source media="(prefers-color-scheme: light)" srcset="https://github-stats-extended.vercel.app/api?username=gear-fifth&show_icons=true&bg_color=ffffff&border_color=cbd5e1&border_radius=12&title_color=b45309&icon_color=7c3aed&text_color=0f172a&card_width=430" />
+      <img alt="Smit's GitHub Stats" src="https://github-stats-extended.vercel.app/api?username=gear-fifth&show_icons=true&bg_color=090d16&border_color=1e293b&border_radius=12&title_color=f59e0b&icon_color=a78bfa&text_color=e2e8f0&card_width=430" />
+    </picture>
+  </a>
+  &nbsp;
+  <a href="https://github.com/gear-fifth">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=gear-fifth&background=090d16&border=1e293b&border_radius=12&ring=f59e0b&fire=f59e0b&currStreakLabel=f59e0b&currStreakNum=f8fafc&sideNums=f8fafc&sideLabels=94a3b8&dates=64748b&stroke=1e293b&card_width=430" />
+      <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com/?user=gear-fifth&background=ffffff&border=cbd5e1&border_radius=12&ring=d97706&fire=d97706&currStreakLabel=b45309&currStreakNum=0f172a&sideNums=0f172a&sideLabels=475569&dates=64748b&stroke=e2e8f0&card_width=430" />
+      <img alt="Smit's Contribution Streak" src="https://streak-stats.demolab.com/?user=gear-fifth&background=090d16&border=1e293b&border_radius=12&ring=f59e0b&fire=f59e0b&currStreakLabel=f59e0b&currStreakNum=f8fafc&sideNums=f8fafc&sideLabels=94a3b8&dates=64748b&stroke=1e293b&card_width=430" />
+    </picture>
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/gear-fifth">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-stats-extended.vercel.app/api/top-langs/?username=gear-fifth&layout=compact&bg_color=090d16&border_color=1e293b&border_radius=12&title_color=f59e0b&text_color=e2e8f0&card_width=430" />
+      <source media="(prefers-color-scheme: light)" srcset="https://github-stats-extended.vercel.app/api/top-langs/?username=gear-fifth&layout=compact&bg_color=ffffff&border_color=cbd5e1&border_radius=12&title_color=b45309&text_color=0f172a&card_width=430" />
+      <img alt="Top Languages" src="https://github-stats-extended.vercel.app/api/top-langs/?username=gear-fifth&layout=compact&bg_color=090d16&border_color=1e293b&border_radius=12&title_color=f59e0b&text_color=e2e8f0&card_width=430" />
+    </picture>
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/gear-fifth">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=gear-fifth&bg_color=090d16&color=e2e8f0&line=f59e0b&point=a78bfa&area=true&area_color=f59e0b&hide_border=false&custom_title=Drums%20of%20Liberation%20%E2%80%94%20Contribution%20Velocity" />
+      <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=gear-fifth&bg_color=ffffff&color=0f172a&line=d97706&point=7c3aed&area=true&area_color=f59e0b&hide_border=false&custom_title=Drums%20of%20Liberation%20%E2%80%94%20Contribution%20Velocity" />
+      <img alt="Contribution Velocity Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=gear-fifth&bg_color=090d16&color=e2e8f0&line=f59e0b&point=a78bfa&area=true&area_color=f59e0b&hide_border=false&custom_title=Drums%20of%20Liberation%20%E2%80%94%20Contribution%20Velocity" width="96%" />
+    </picture>
+  </a>
+</p>
+
+<br />
+
+<!-- ═══════════════════════════════════════════════════════════════════════════ -->
+<!-- 05 // CONTRIBUTION PULSE — JOLLY ROGER ARCADE                              -->
+<!-- ═══════════════════════════════════════════════════════════════════════════ -->
+
+<h2 align="center"><code>05</code> &nbsp;🐍&nbsp; CONTRIBUTION PULSE</h2>
+
+<p align="center">
+  <sub><em>“Even in battle, the Joy Boy plays.” — Live GitHub Contribution Grid Animation</em></sub>
+</p>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/gear-fifth/gear-fifth/output/snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/gear-fifth/gear-fifth/output/snake-light.svg" />
+    <img alt="Nika Snake — Live Contribution Grid Animation" src="https://raw.githubusercontent.com/gear-fifth/gear-fifth/output/snake-dark.svg" width="100%" />
+  </picture>
+</p>
+
+<br />
+
+<!-- ═══════════════════════════════════════════════════════════════════════════ -->
+<!-- 06 // CLOSING SIGNATURE WAVE                                               -->
+<!-- ═══════════════════════════════════════════════════════════════════════════ -->
 
 <div align="center">
 
-### 🥁 *“If you don't take risks, you can't create a future.”*
-— **Monkey D. Luffy (Joy Boy)**
+### *“If you don’t take risks, you can’t create a future.”*
+<sub>— **Monkey D. Luffy (Joy Boy)**</sub>
 
 <br />
 
-*Doom dut-da-da! Doom dut-da-da!* 🥁✨  
-*The Drums of Liberation resonate through every commit.*
-
-<br />
-
-<a href="#gear-fifth">
-  <img src="https://img.shields.io/badge/Back%20To%20Top-181717?style=for-the-badge&logo=github&logoColor=white" alt="Back to Top" />
+<a href="#top">
+  <img src="https://img.shields.io/badge/%E2%86%91%20BACK%20TO%20TOP-0F172A?style=for-the-badge&logoColor=F59E0B" alt="Back to Top" />
 </a>
+
+<br /><br />
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:F59E0B,30:78350F,65:1E1B4B,100:090D16&height=120&section=footer&text=DOOM%20DUT-DA-DA%20%C2%B7%20DRUMS%20OF%20LIBERATION&fontSize=15&fontColor=FDE68A&fontAlignY=68&animation=twinkling" width="100%" alt="Drums of Liberation Footer Wave" />
 
 </div>
